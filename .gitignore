@@ -1,8 +1,5 @@
 /env/
 
-/base_files
-/converted_files
-
 .idea
 __pycache__
 __pycache__/
